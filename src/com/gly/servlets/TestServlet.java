@@ -29,6 +29,8 @@ public class TestServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		System.out.println("JAVAGITTest 提交第一次"); 
 		System.out.println("HOTFIX");
+		System.out.println("HOTFIX2");
+
 	}
 
 	/**
